@@ -2,3 +2,5 @@ pandas
 scikit-learn
 matplotlib
 scipy
+html5lib
+lxml
